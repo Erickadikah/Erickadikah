@@ -1,6 +1,6 @@
 <div align="center">
-  <a href="https://twitter.com/erick_adikah" target="_blank">
-    <img src="https://img.shields.io/static/v1?message=Twitter&logo=twitter&label=&color=1DA1F2&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="twitter logo" />
+  <a href="https://x.com/erick_adikah" target="_blank">
+    <img src="https://img.shields.io/static/v1?message=X&logo=x&label=&color=000000&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="x logo" />
   </a>
   <img src="https://img.shields.io/static/v1?message=Discord&logo=discord&label=&color=7289DA&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="discord logo" />
 </div>
@@ -16,8 +16,9 @@ Senior full-stack engineer with 4+ years building production systems across fint
 
 Background in graphic design gives me a sharper eye for UI than most engineers.
 
-- 🌍 &nbsp;Open to connect.
-- 📬 &nbsp;Reach me at **erickadikah2030@gmail.com**
+- &nbsp;Focused on **system design**, **API architecture**, and **fintech infrastructure**
+- &nbsp;Currently deepening expertise in **cloud architecture** and **distributed systems**
+- &nbsp;**erickadikah2030@gmail.com**
 
 ---
 
