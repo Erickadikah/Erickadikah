@@ -6,24 +6,23 @@
 </div>
 
 <h1 align="center">Erick Adikah</h1>
-<h4 align="center">Senior Full-Stack Engineer · Nairobi, Kenya</h4>
+<h4 align="center">Senior Full-Stack & Mobile Engineer · Nairobi, Kenya</h4>
 
 ---
 
 ### About Me
-
-Senior full-stack engineer with 4+ years building production systems across fintech and SaaS. I work across the full stack — from React/Next.js frontends to FastAPI/Node.js backends — with a strong emphasis on clean architecture, developer experience, and shipping things that actually work.
+Senior full-stack engineer with 4+ years building production systems across fintech and SaaS. I work across the full stack — from React/Next.js frontends to FastAPI/Node.js backends — and also build cross-platform mobile apps with React Native, with a strong emphasis on clean architecture, developer experience, and shipping things that actually work.
 
 Background in graphic design gives me a sharper eye for UI than most engineers.
 
-- &nbsp;Focused on **system design**, **API architecture**, and **fintech infrastructure**
+- &nbsp;Focused on **system design**, **API architecture**, and **fintech infrastructure** (payments integrations incl. **Flutterwave**)
+- &nbsp;Building cross-platform mobile apps with **React Native**
 - &nbsp;Currently deepening expertise in **cloud architecture** and **distributed systems**
 - &nbsp;**erickadikah2030@gmail.com**
 
 ---
 
 ### 🛠 Tech Stack
-
 <div align="left">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" height="40" alt="typescript" />
   <img width="12" />
@@ -50,4 +49,6 @@ Background in graphic design gives me a sharper eye for UI than most engineers.
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/amazonwebservices/amazonwebservices-line-wordmark.svg" height="40" alt="aws" />
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/figma/figma-original.svg" height="40" alt="figma" />
+  <img width="12" />
+  <img src="https://img.shields.io/badge/Flutterwave-F5A623?style=for-the-badge&logo=flutterwave&logoColor=white" height="40" alt="flutterwave" />
 </div>
