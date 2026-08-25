@@ -6,14 +6,6 @@
 </div>
 
 <h1 align="center">Erick Adikah</h1>
-<h4 align="center">Senior Full-Stack & Mobile Engineer · Nairobi, Kenya</h4>
-
----
-
-### About Me
-Senior full-stack engineer with 4+ years building production systems across fintech and SaaS. I work across the full stack — from React/Next.js frontends to FastAPI/Node.js backends — and also build cross-platform mobile apps with React Native, with a strong emphasis on clean architecture, developer experience, and shipping things that actually work.
-
-Background in graphic design gives me a sharper eye for UI than most engineers.
 
 - &nbsp;Focused on **system design**, **API architecture**, and **fintech infrastructure** (payments integrations incl. **Flutterwave**)
 - &nbsp;Building cross-platform mobile apps with **React Native**
